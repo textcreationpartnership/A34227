@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession and execution of Mr. Richard Langhorn late counsellor in the Temple, who was executed for his treasonable practises against the life of His Most Sacred Majesty, and the true Protestant government, on Monday the 14th of this instant July, 1679. With an account of his deportment in Newgate, and at the place of execution. With several other remarkable circumstances.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34227</idno>
+            <idno type="STC">Wing C5745</idno>
+            <idno type="STC">ESTC R202456</idno>
+            <idno type="EEBO-CITATION">99830209</idno>
+            <idno type="PROQUEST">99830209</idno>
+            <idno type="VID">34659</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34227)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34659)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2070:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession and execution of Mr. Richard Langhorn late counsellor in the Temple, who was executed for his treasonable practises against the life of His Most Sacred Majesty, and the true Protestant government, on Monday the 14th of this instant July, 1679. With an account of his deportment in Newgate, and at the place of execution. With several other remarkable circumstances.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Langhorne, Richard, 1654-1679 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34659:1"/>
+            <head>THE CONFESSION AND EXECUTION OF Mr. Richard Langhorn, Late Counſellor in the <hi>TEMPLE,</hi> Who was Executed for his Treaſonable Practiſes againſt the Life of His Moſt Sacred Maieſty, And the <hi>True Proteſtant Government,</hi> On <hi>Monday</hi> the 14<hi rend="sup">th</hi> of this inſtant <hi>July,</hi> 1679.</head>
+            <head type="sub">With an Account of his Deportment in <hi>Newgate,</hi> and at the Place of EXECUTION.</head>
+            <head type="sub">With ſeveral other Remarkable Circumſtances.</head>
+            <p>IN vain is warning to ſuch deſperate men, who will not ſee their Errors, but hood-wink themſelves upon the verge of Fate, and never conſider, till 'tis too late, what a vaſt and boundleſs depth Eternity ſtill bears; for were ſuch men but ſenſible, it ever would ſtart them from their fond opinions, that be<g ref="char:EOLhyphen"/>tray their Souls, and makes them equivocate and deny a perfect Truth when tum<g ref="char:EOLhyphen"/>bling into an immortal ſtate, as has been plainly ſeen and heard by thoſe Foreign <hi>Romanists,</hi> who have their lives moſt juſtly paid for thoſe Diabolick Crimes by them deſigned, the which extended to the murder of their Native Prince, to gra<g ref="char:EOLhyphen"/>tifie
+<pb n="2" facs="tcp:34659:2"/>ambitious Tyrants far remote: Nay, ſo much did Hell-bred malice prompt them on, that regardleſs of the Place that gave them birth, they did intend to Crimſon it with ſtreaming ſlaughter, preſſed from out ſo many hundred thouſand guiltleſs Souls; and ſurely, like the hundred handed Gyants, would have in<g ref="char:EOLhyphen"/>vaded Heaven too, had not the Great <hi>Jehova</hi> looked down, and quell'd their da<g ref="char:EOLhyphen"/>ring arrogance, <hi>&amp;c.</hi>
+            </p>
+            <p>But he of whoſe deſerved, though moſt ſhameful downfall and cataſtrophe I here muſt treat, that he in ſuch prepoſterous ways ſhould tread, the which, no doubt, do tend to death and hell, it might, in moſt that knew him, raiſe an ad<g ref="char:EOLhyphen"/>miration, being counted heretofore a ſober, ſerious, prudent, and, in his way, a moſt devout Profeſſor of honeſty and true Allegiance to his Prince. But, as holy Writ explains, <hi>[The heart of man is deceitful above all things, and deſperately wicked, who can know it]</hi> for often under the verdent fragrancy, a poiſonous Serpent lurks, whoſe ſting does bear inevitable death; ſo this <hi>Richard Langhorn,</hi> for ſuch is his name, made his outward dealing a Cloak, to ſhroud the vileneſs of his Soul But notwithſtanding all his ſleights, his pernicious ways were pri'd into, and Juſtice found him at the laſt, nor could his ſhifting ſave him from its hands; for on <hi>Saturday</hi> the 14th of <hi>June,</hi> 1679. he was brought to his Trial at the <hi>Seſſions-houſe</hi> in the <hi>Old-bailey,</hi> where holding up his hand, he was Arraigned for High-Treaſon, <hi>That he the ſaid</hi> Richard Langhorn <hi>did caſt off all due Allegiance to his Sovereign Lord the King, and that he did traiterouſly joyn and conſpire with ſeveral notorious Villains, and that for the propagating the</hi> Roman <hi>Cauſe to ſubvert the Go<g ref="char:EOLhyphen"/>vernment, and that most inhumanely and barbarouſly to attempt the the Life of his moſt Sacred Majeſty his lawful Sovereign; and having carried on the ſaid Helliſh deſign for many years, ſending and receiving Letters from</hi> Rome <hi>and</hi> France, <hi>com<g ref="char:EOLhyphen"/>plotting with the</hi> French <hi>Kings Confeſſor</hi> Le Cheeſe, <hi>and</hi> Chriſtopher Aderton, <hi>Re<g ref="char:EOLhyphen"/>ctor of the</hi> Engliſh <hi>Colledge at</hi> Rome; <hi>in which Letters he gave them notice from time to time how Affairs were carried on in</hi> England, <hi>and what courſes they were beſt to take to effect their deſigns: And that he provided, paid, and diſtributed certain conſiderable Sums of Mony towards the encouraging impious Ruffins to promote the Maſſacre of all his Majeſties loving Subjects, that ſhould refuſe to joyn or cloſe with their accurſed deſigns, and pernicious intreagues, &amp;c. And that he did, to the utmost of his power, encourage and inſtruct the chief Traitors: And that he received ſeveral unlawful Commiſſions from the preſumptuous See of</hi> Rome, <hi>Signed and Sealed, for the deſpiſing of Military and Civil Affairs, and thereby impowered to raiſe Rebellion in the Land, to harras, murder, and maſsacre his Majeſties Subjects. And that he the ſaid</hi> Richard Langhorn, <hi>contrary to his Faith and Allegiance to his Majeſty taken, by ſeveral Letters to the</hi> Benedictine Monks, <hi>did require and procure</hi> 6000 <abbr>l.</abbr> 
+               <hi>to<g ref="char:EOLhyphen"/>wards the making up the ſum promiſed for poiſoning his Majeſty, &amp;c. And that his practiſe had been for many years imployed to ſerve and promote the Interest of the</hi> Ro<g ref="char:EOLhyphen"/>miſh <hi>Faction, in carrying on their pernicious deſigns.</hi> Theſe, and many other tedi<g ref="char:EOLhyphen"/>ous Circumſtances were laid to his charge, of which theſe I have premiſed are the Heads, the whole Arguments being too tedious here to inſert. To this he pleaded Not Guilty. But the Witneſſes for the King appearing, and giving in their Evi<g ref="char:EOLhyphen"/>dences in the Court, they were moſt plainly proved, Dr. <hi>Oates</hi> ſwearing poſi<g ref="char:EOLhyphen"/>tively to each particular that was any ways of any concernment<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; as likewiſe Mr. <hi>Bedlow,</hi> Mr. <hi>Dugdale,</hi> and others, who poſitively ſwore to many Principles and Particulars: But <hi>Langhorn</hi> denied each Circumſtance, adjuring whatſoever was alledged againſt him, putting many croſs queſtions for his own defence: But the Witneſs was ſo plain, and every particular managed to the heighth, that his Scarlet Crimes were moſt deteſtably abhorred by all that heard them, except his own dyſaſterous <hi>Roman</hi> Practitioners for theſe and ſuch like crimes. After a long
+<pb n="3" facs="tcp:34659:2"/>audience of all that he could alledge in his own defence, the Court and the King's Council having given Inſtructions to the Jury; they, after half an hours debate, brought him in Guilty of High Treaſon; whereupon the Court proceeded to Sentence accordingly, That he ſhould be Drawn, Hang'd, and Quartered, ac<g ref="char:EOLhyphen"/>cording as the Law has provided in that caſe for Capital Crimes, of ſo heinous a Nature. Whereupon he was conveyed back to <hi>Newgate,</hi> where, by his Majeſties bounty, a longer time was granted him than was expected, conſidering how hei<g ref="char:EOLhyphen"/>nouſly he had offended ſo good and mild a Prince. During the time of his Re<g ref="char:EOLhyphen"/>prieve, he was carried before the Council and Examined, having Mercy tendered if he would accept, upon condition to declare his knowledge concerning his Dia<g ref="char:EOLhyphen"/>bolick Contrivances: but nothing could be got of him, being hardened by fooliſh Promiſes of being great in another World, for living in wickedneſs in this; for ſuch are the fond opinions of ſuch who court that impoſterous Religion or Prin<g ref="char:EOLhyphen"/>ciples, <hi>&amp;c.</hi>
+            </p>
+            <p>The ſmall Diſcovery he made, was only relating to the Lands the Jeſuits have lately purchaſed in <hi>England,</hi> whereby to maintain and uphold their Helliſh Pra<g ref="char:EOLhyphen"/>ctiſes; the which amounted to ſixty thouſand pounds <hi>per Annum</hi> ſterling. So have thoſe Locuſts made thoir Footing good in this our Engliſh Nation, longing once more to bring ſo fair a Soil, <hi>ſub juga Romani,</hi> having once taſted the plea<g ref="char:EOLhyphen"/>ſantneſs of its Delights; but he not revealing any thing to the purpoſe, the War<g ref="char:EOLhyphen"/>rant was Signed for his Execution this day, being the 14th as aforeſaid. In the mean time he put up a Petition, intreating for Baniſhment, but hard it is to truſt ſo dangerous a Man abroad, leſt there he injure us more than at home; his Petiti<g ref="char:EOLhyphen"/>on not taking effect, Preparation was made in order to his Execution.</p>
+            <p>On Saturday-night before his Execution, he ſeemed exceeding joyful at ap<g ref="char:EOLhyphen"/>proaching Death, and expreſſed himſelf much ſatisfied at the certainty of his Transmigration to another State; but more becauſe he foreknew the time prefixed, often kneeling on a Book, with frequent Prayers and Ejaculations, ſeeming to continue the hopes of Life, and to promiſe himſelf more ſollid and ſubſtantial Joys.</p>
+            <p>He being brought down, and placed in the Sledg, he ſeemed to be little diſcou<g ref="char:EOLhyphen"/>raged at the near Approach of Death, that gaſtly King of Terrors, whoſe dread frowns can ſtartle the daring'ſt he that Roman miſchief can invent.</p>
+            <p>He being in the Sledg, often did extend his Hands and Arms, with elevating his Countenance, ſeeming exceeding penitent; from which place being Guarded by the Sherifs Men and a number of Conſtables and Watchmen, according to the Order in that Caſe as he paſſed on: whole Crouds of People thronging every Corner of the Streets and Lanes to ſee the miſerable Wretch, of whom they late<g ref="char:EOLhyphen"/>ly heard ſo much.</p>
+            <p>During the time of his being drawn along, he made many Prayers, and was ſeemingly very Penitent, and ſo continued till he came to the place of Executi<g ref="char:EOLhyphen"/>on, where being Arrived and holpen into the Cart, which was ready there for that purpoſe, there he made many Proteſtations, and denied that he knew any in<g ref="char:EOLhyphen"/>treague or Deſign on foot by the Catholicks againſt this Nation, or any of his Ma<g ref="char:EOLhyphen"/>jeſties Countries or Dominions: And as to a Letter written by the Earl of <hi>Roſcom<g ref="char:EOLhyphen"/>mon,</hi> the which was aledged againſt him, he was altogether ignorant of; and that it was undeſervedly laid to his Charge, making many Proteſtations of his Maje<g ref="char:EOLhyphen"/>ſties Bounty and Princely Compaſſion towards him, that he had been ſo long plea<g ref="char:EOLhyphen"/>ſed to grant him time to fit and prepare him for another Life, the which he was going to paſs unto; and that now his tranſitory being crauled upon the utmoſt Verge of Hope; therefore he deſired forgiveneſs of all that he had any ways in<g ref="char:EOLhyphen"/>jured, deſiring the Prayers of all good People, ſaying that he held the Tenets of
+<pb n="4" facs="tcp:34659:3"/>the Church of <hi>Rome</hi> a long time, and that he had been very Zealous in propaga<g ref="char:EOLhyphen"/>ting that Faith, and had likewiſe cauſed his Sons to be Educated in the ſame; and farther, that he did acknowledg his Soveraign, King <hi>Charles</hi> the Second, to be his juſt and lawful Prince, and without any Mental Reſervation, or Equivocation ac<g ref="char:EOLhyphen"/>cording to the true meaning of the Oath of Allegiance, he did faithfully believe and hold him to be the lawful Heir of theſe Realms, and that neither the Pope nor any forreign Potentate had Right to diſpoſſeſs him of his Crown, or depoſe him of his Government, nor to incenſe any to take up Arms, or raiſe Rebellion againſt his Majeſty, either to the prejudice of himſelf, or his Subjects, nor to diſturb the Government of the Kingdom, as it is now eſtabliſhed, and that the Life of his Majeſty ought to be held ſacred upon the account of the preſervation of his Subjects; and that he never was ſo much as Guilty of a ſecret Thought, the which might any ways tend to the hurt of his Majeſty, and that he thought himſelf bound in Conſcience, if he ſhould know any thing in that Nature, immediately to diſ<g ref="char:EOLhyphen"/>cloſe it; and if that any Conſpiracy, Deſign or intent whatſoever, were about to be put in Practice, that then he was obliged to reveal it, as he tendred his Eternal welfare, and hoped to eſcape Damnation. Theſe and many other Proteſtations ſo common to thoſe kind of deſperate People, who truſt in <hi>Romes</hi> Indulgences and Pardons, and pin their Conſciences thereon, not weighing the diſpleaſure of an angry God, but depend on the Infallibility of their Roman Impoſtor, that Devou<g ref="char:EOLhyphen"/>rer of Souls, whoſe Tyranny too oft had made the Nations Groan, but to the purpoſe, after his Atteſtations and abſolute denial, he was executed according as the Law for ſuch notorious Traitors have deſigned; the which though he was a Traitor, yet moved the Hearts of many to pitty him, by reaſon of his Age and Gravity; being a tall Man, of a Sanguin Complexion, of a moderate Grace and Geſture and of brave Eloquent and authentick parts, having been a Counſellor for this many years. After he was Cut down and Quartered, his Quarters were by his Majeſties Order delivered to his Friends, in Order to his Burial, <hi>&amp;c.</hi>
+            </p>
+            <p>Now one would ſuppoſe that this and many other the untimely Ends of ſuch like Miſcreants, who have of late for their abhorr'd Crimes been juſtly made the Tro<g ref="char:EOLhyphen"/>phies of purſuing Juſtice, ſhould ſtand as marks to warn their Brethren leaſt they ſhould headlong preſs upon thoſe dangerous ſhoales of an untimely Fate; but 'tis in vain, pernicious men that bend on black Deſignes, Ruſh forwards not caring where they go, ſo they accompliſh their deſtructive ends.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
